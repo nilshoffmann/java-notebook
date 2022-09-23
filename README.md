@@ -4,7 +4,7 @@ Try out the jmzqc Jupyter Notebook.
 [![JDK17 Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nilshoffmann/java-notebook/jmzqc)
 
 ## Based on 
-* GitHub [github.com/jbindinga/java-notebook](https://github.com/jbindinga/java-notebook?urlpath=jmzqc-demo.ipynb)
+* GitHub [github.com/jbindinga/java-notebook](https://github.com/jbindinga/java-notebook?urlpath=/lab/jmzqc-demo.ipynb)
 
 ## References
 ## IJava kernel
