@@ -1,7 +1,9 @@
 # Java Notebook for jmzqc
 ## Launch on My binder
 Try out the jmzqc Jupyter Notebook.
-[![JDK17 Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nilshoffmann/java-notebook/jmzqc?urlpath=/lab/workspaces/auto-g/tree/jmzqc-demo.ipynb)
+[![JmzQC Validation Demo](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nilshoffmann/java-notebook/jmzqc?urlpath=/lab/workspaces/auto-g/tree/jmzqc-demo.ipynb)
+[![Proteomics mzQC Demo](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nilshoffmann/java-notebook/jmzqc?urlpath=/lab/workspaces/auto-g/tree/jmzqc_proteomics_demo.ipynb)
+[![Lipidomics / SRM mzQC Demo](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nilshoffmann/java-notebook/jmzqc?urlpath=/lab/workspaces/auto-g/tree/jmzqc-demo.ipynb)
 
 ## Based on 
 * GitHub [github.com/jbindinga/java-notebook](https://github.com/jbindinga/java-notebook)
