@@ -39,7 +39,7 @@ RUN rm ijava-kernel.zip
 
 # Add README.md
 ADD "README.md" $HOME
-ADD "jmzqc-demo.ipynb" $HOME
+ADD "*.ipynb" $HOME/
 
 # Set user back to priviledged user.
 USER $NB_USER
